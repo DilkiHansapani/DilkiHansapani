@@ -1,6 +1,6 @@
 # Hi, I’m Dilki 👋  
 
-💻 Software Engineer | Fullstack Developer  
+💻 Associate Software Engineer | Fullstack Developer  
 
 ---
 
