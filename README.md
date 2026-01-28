@@ -1,21 +1,42 @@
 # Hi, I’m Dilki 👋  
 
-💻 Associate Software Engineer | Fullstack Developer  
+💻 Associate Software Engineer | Full-Stack Developer  
+🌱 Backend-focused | Continuous learner  
 
 ---
 
 ## 👩‍💻 About Me
 
-- Currently Working as a **Associate Software Engineer**, mainly focused on **backend development**
-- Hands-on experience with **Java $ Springboot, React, Python & Django**
-- Currently improving my **Python fundamentals, Django internals, and system design**
+- Currently working as an **Associate Software Engineer**, primarily focused on **backend development**
+- Hands-on experience with **Java & Spring Boot**, **Python & Django**, and **React**
+- Actively improving my **Python fundamentals**, **Django internals**, and **system design concepts**
+- Interested in building **clean, scalable, and maintainable applications**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 🧰 Tech Stack
 
 **Backend**
-- Springboot with Java
+- Java with Spring Boot  
 - Python, Django, Django REST Framework  
 
 **Frontend**
@@ -25,12 +46,15 @@
 - PostgreSQL, MySQL
 
 **Cloud & DevOps**
-- AWS Cognito, AWS S3, Docker, Jenkins
+- AWS Cognito, AWS S3  
+- Docker, Jenkins  
 
 **Tools & Platforms**
 - Git, GitHub  
-- IntelliJ IDEA, PyCharm ,Visual Studio Code, Postman, Swagger
-- Jira, Click up
+- IntelliJ IDEA, PyCharm, Visual Studio Code  
+- Postman, Swagger  
+- Jira, ClickUp  
+
 ---
 
 ## 📊 GitHub Stats
@@ -39,21 +63,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilkiHansapani&show_icons=true)
 
-> ⚠️ Language stats reflect code usage, not expertise.
-
----
-
-## 🎯 Current Focus
-
-- Strengthening **Python fundamentals**
-- Writing **clean, testable Django code**
-- Understanding **backend architecture & system design**
-- Becoming a more confident, independent engineer
-
 ---
 
 ## 📫 Connect With Me
 
-- Email: dilkihansapani321@gmail.com
-- GitHub: https://github.com/DilkiHansapni
-- LinkedIn: www.linkedin.com/in/dilki-hansapani
+- 📧 Email: **dilkihansapani321@gmail.com**  
+- 🐙 GitHub: https://github.com/DilkiHansapani  
+- 💼 LinkedIn: https://www.linkedin.com/in/dilki-hansapani  
