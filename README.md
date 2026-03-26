@@ -9,7 +9,6 @@
 
 - Currently working as an **Associate Software Engineer**, primarily focused on **backend development**
 - Hands-on experience with **Java & Spring Boot**, **Python & Django**, and **React**
-- Actively improving my **Python fundamentals**, **Django internals**, and **system design concepts**
 - Interested in building **clean, scalable, and maintainable applications**
 
 ---
